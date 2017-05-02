@@ -1,5 +1,7 @@
 # StorjShare DNS Service
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/storjshare-dns.svg)](https://greenkeeper.io/)
+
 Manages the storj.farm TLD for farmers on the Storj network
 
 ![logo](./.github/logo.png)
